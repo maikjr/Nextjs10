@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "next dev"
+  },
+  "name": "nextjs10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "agvivadigital <agenciavivadigital@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
